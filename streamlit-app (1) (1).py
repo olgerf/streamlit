@@ -15,7 +15,8 @@ import pandas as pd
 import plotly.express as px
 import requests
 import plotly.graph_objects as go
-import html5lin
+import html5lib
+import lxml
 
 # !pip install streamlit
 # !pip install html5lib
