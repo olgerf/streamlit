@@ -4,7 +4,7 @@
 # In[1]:
 
 
-#Covid-vs-Gaming_Julius_Slobbe_500916116_Serhat_kokcu_500858425_Bart_Combee_500914214
+#Covid-vs-Gaming_Julius_Slobbe_500916116_Serhat_kokcu_500858425_Bart_Kombee_500914214
 
 
 # In[19]:
@@ -425,7 +425,6 @@ st.plotly_chart(fig6, use_container_width=False, sharing="streamlit")
 
 
 # In[ ]:
-
 
 
 
