@@ -8,8 +8,9 @@ get_ipython().system('pip install streamlit')
 import streamlit as st
 import pandas as pd
 import numpy as np
-import htlm5lib
+import html5lib
 import lxml
+import requests
 
 
 # In[6]:
